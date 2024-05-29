@@ -28,6 +28,7 @@ jobs:
           user: bardwaz
           template: terminal
           base: header, activity
+          config_display: large
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
