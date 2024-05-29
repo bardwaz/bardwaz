@@ -26,8 +26,8 @@ jobs:
 
           # Options
           user: bardwaz
-          template: classic
-          base: header, activity, community
+          template: terminal
+          base: header, activity
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
