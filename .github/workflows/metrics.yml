@@ -24,7 +24,6 @@ jobs:
           config_display: large
           config_octicon: yes
           config_padding: 0
-          config_presets: "@lunar-red"
           config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_introduction: yes
