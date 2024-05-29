@@ -21,7 +21,7 @@ jobs:
           user: bardwaz
           template: terminal
           base: header, activity
-          config_display: columns
+          config_display: large
           config_octicon: yes
           config_padding: 0
           config_presets: "@lunar-red"
