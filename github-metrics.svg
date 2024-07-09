@@ -33,7 +33,7 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">bardwaz@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>bardwaz</b> registered=9m, uid=6021, gid=0
+<pre><div class="stdin"><span class="ps1-path">bardwaz@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>bardwaz</b> registered=10m, uid=6021, gid=0
   contributed to 6 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>2</b> users
 </div>
